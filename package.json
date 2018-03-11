@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "dependencies": {
+    "director": "~1.2.2",
+    "handlebars": "~2.0.0",
+    "jquery": "~2.1.1",
+    "todomvc-app-css": "^2.1.0",
+    "todomvc-common": "~1.0.1"
+  },
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "A todo List using jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "siva",
+  "license": "ISC"
+}
